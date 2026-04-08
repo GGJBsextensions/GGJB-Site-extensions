@@ -1,3 +1,8 @@
 body {
   background-color: #edeeee;
+  text-color: gray;
+}
+video {
+  border: 5px;
+  border-color: gray;
 }
