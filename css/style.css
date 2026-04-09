@@ -1,7 +1,7 @@
 body {
   background-color: #edeeee;
   text-color: gray;
-  font-family: 'Arial';
+  font-family: 'Arial', sans-serif;
 }
 video {
   border: 5px;
