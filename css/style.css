@@ -14,12 +14,3 @@ button {
   font-size: 14px;
   border-radius: 12px;
 }
-    footer {
-      background-color: #edeeee;
-      color: white;
-      text-align: center;
-      padding: 15px;
-      position: fixed; 
-      bottom: 0;
-      width: 50%;
-    }
