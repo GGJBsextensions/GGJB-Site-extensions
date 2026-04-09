@@ -7,3 +7,8 @@ video {
   border: 5px;
   border-color: gray;
 }
+button {
+  border: 4px;
+  border-color: gray;
+  font-size: 14px;
+}
