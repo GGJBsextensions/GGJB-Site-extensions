@@ -6,9 +6,11 @@ body {
 video {
   border: 5px;
   border-color: gray;
+  border-radius: 10px;
 }
 button {
   border: 4px;
   border-color: gray;
   font-size: 14px;
+  border-radius: 12px;
 }
